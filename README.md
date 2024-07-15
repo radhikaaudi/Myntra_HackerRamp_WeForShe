@@ -22,10 +22,14 @@ It allows users to scroll through the various section and get a idea of how the 
 “Just play around with the random button feature of the Wishlist Bot until you get
 
  the outfit of your choice”  
+ 
 
- https://myntra-hackerramp-weforshe.onrender.com/
+DEMO SITE-  https://myntra-hackerramp-weforshe.onrender.com/
+
 
 ![Screenshot (266)](https://github.com/user-attachments/assets/3814470f-4e79-45f2-b3ca-6c9a7ebe85f4)
+
+
 
 Solution 2: Style Box
 
@@ -36,6 +40,7 @@ It makes the process of choosing and selecting clothes a way easier as all you n
 Also, you don’t have to burn up you head for the gifts you want to give to your loved ones,
 
 “Just fill the form and gift them the outfit of their choice”
+
 
 ![Screenshot (264)](https://github.com/user-attachments/assets/49e1c8c0-a946-4555-8607-23a4869354bb)
 
