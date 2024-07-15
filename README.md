@@ -12,7 +12,7 @@
 
 Solution 1: Wishlist Bot
 
-
+The files relative to this solution are present in the main(this) branch folder.
 We have proposed the idea of a Wishlist Bot within the 
 
 wishlist section, which will help us design a full outfit and get a preview of it.
@@ -33,6 +33,7 @@ DEMO SITE-  https://myntra-hackerramp-weforshe.onrender.com/
 
 Solution 2: Style Box
 
+The files related to this solution are present in the 
 Style Box is a gateway for the people to get the outfit of their choice just by mentioning the details they want.
 
 It makes the process of choosing and selecting clothes a way easier as all you need to do is to fill all your preferences in a form and get the outfits ready in the cart as per your choice filled. The hustle to upload a picture of the aesthetic one by one is reduced by the multiple uploads option.
