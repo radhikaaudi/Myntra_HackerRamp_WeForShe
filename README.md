@@ -12,6 +12,7 @@
 
 Solution 1: Wishlist Bot
 
+
 We have proposed the idea of a Wishlist Bot within the 
 
 wishlist section, which will help us design a full outfit and get a preview of it.
@@ -21,6 +22,8 @@ It allows users to scroll through the various section and get a idea of how the 
 “Just play around with the random button feature of the Wishlist Bot until you get
 
  the outfit of your choice”  
+
+ https://myntra-hackerramp-weforshe.onrender.com/
 
 ![Screenshot (266)](https://github.com/user-attachments/assets/3814470f-4e79-45f2-b3ca-6c9a7ebe85f4)
 
