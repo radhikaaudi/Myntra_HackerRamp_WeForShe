@@ -15,18 +15,18 @@ body {
 
 .headd{
     padding-top: 20px;
-    font-size: 80px;
+    font-size: 40px;
 }
 
 .logo-cont {
     position: absolute;
-    left: 20px;
+    left: 30px;
     padding: 10px;
 }
 
 .logo {
     margin-top: 5px;
-    width: 180px;
+    width: 80px;
     height: auto;
 }
 
@@ -34,8 +34,7 @@ body {
 .form-cont {
     text-align: center;
     font-size: 30px;
-    height: 100vh;
-    max-width: 800px;
+    max-width: 400px;
     margin: 80px auto 30px auto;
     padding: 35px 15px;
     background: linear-gradient(to bottom right, #fcfaf7, #f9f9f8);
@@ -49,17 +48,17 @@ body {
 }
 h1 {
     color: #05053b;
-    font-size: 1.8em;
+    font-size: 1.2em;
 }
 
 h2 {
     color: #05053b;
-    font-size: 1.3em;
+    font-size: 1em;
 }
 
 label {
     padding: 3px 0;
-    font-size: 1em;
+    font-size: 0.8em;
     display: block;
 }
 
@@ -85,7 +84,7 @@ button {
     margin-top: 30px;
     color: #fff;
     border: none;
-    padding: 20px 30px;
+    padding: 17px 20px;
     font-size: 0.9em;
     border-radius: 15px;
     cursor: pointer;
