@@ -1,0 +1,162 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    height: 100vh;
+    width: 100vw;
+}
+
+.logo{
+    width: 250px;
+}
+
+.options{
+    display: flex;
+    font-size: 20px;
+}
+
+.options span{
+    margin: 22px 10px 0 10px;
+}
+
+.sh-cart{
+    margin: 10px;
+    padding: 10px;
+}
+
+.bag{
+    color: rgb(62, 181, 62);
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
+
+.top{
+    display: flex;
+    justify-content: space-between;
+}
+
+#steps{
+    margin-left: 12px;
+}
+
+.sh-mid{
+    display: flex;
+}
+
+.column{
+    margin: 5px;
+}
+
+.c-left{
+    display: grid;
+    margin-top: 5vh;
+    margin-right: 40px;
+    margin-left: 10vw;
+    flex-basis: 50%;
+}
+
+.item{
+    display: flex;
+}
+
+.imagge{
+    margin: 20px 40px;
+    width: 280px;
+    height: 280px;
+}
+
+.desp{
+    margin-top: 25px;
+}
+
+.desp h4{
+    font-size: 20px;
+}
+
+.desc{
+    color: #5C6779;
+}
+
+.coupon{
+    display: flex;
+}
+
+.c-right{
+    margin-top: 4vh;
+    margin-right: 10vw;
+    padding-top: 25px;
+    padding-left: 50px;
+    font-size: 20px;
+}
+
+.coupon h4{
+    font-weight: bolder;
+}
+
+.c-butt{
+    margin-top: 15px;
+    margin-left: 60px;
+    height: 50px;
+    width: 120px;
+    padding: 2px;
+    border: 3px solid #F0015B;
+    border-radius: 3px;
+    color: #F0015B;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.gift{
+    background-color: #fdd9d5;
+    max-width: 550px;
+    padding: 20px 30px;
+}
+
+.c-right a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    color: #F0015B;
+}
+
+.text{
+    display: flex;
+}
+
+.sec{
+    margin-left: 3vw;
+}
+
+.btn{
+    padding: 20px 40px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: #F0015B;
+    border-radius: 10px;
+}
+
+.address a{
+    text-decoration: none;
+    color: black;
+}
+
+.address{
+    display: flex;
+    font-weight: bold;
+    background-color: #fdd9d5;
+    margin-left: 40px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 20px;
+    justify-content: space-between;
+    border: 1px solid #fdd9d5;
+    border-radius: 10px;
+    font-size: 20px;
+    max-width: 30vw;
+}
+
+.add-butt{
+    position: relative;
+    bottom: 20px;
+}
