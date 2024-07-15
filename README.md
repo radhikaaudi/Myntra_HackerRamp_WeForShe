@@ -11,6 +11,7 @@
                                       Phase 2:  Implementation
 
 Solution 1: Wishlist Bot
+published demo site: https://myntra-hackerramp-weforshe.onrender.com/
 
 The files relative to this solution are present in the main(this) branch folder.
 We have proposed the idea of a Wishlist Bot within the 
